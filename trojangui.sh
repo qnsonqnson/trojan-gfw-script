@@ -336,16 +336,16 @@ whiptail --clear --ok-button "吾意已決 立即執行" --backtitle "hi 请谨�
 "2" "安裝BBR | TCP效能优化(TCP-Turbo)" on \
 "3" "安裝BBRPLUS" off \
 "代理相关" "Proxy concerned" on  \
-"4" "安裝Trojan-GFW" on \
+"4" "安裝Trojan-GFW" off \
 "5" "安裝Dnscrypt-proxy | DNS缓存与广告屏蔽(dns cache and ad block)" on \
-"6" "安裝V2ray | Websocket+tls+Nginx模式(wss mode)" off \
+"6" "安裝V2ray | Websocket+tls+Nginx模式(wss mode)" on \
 "7" "安裝Shadowsocks | Websocket+tls+Nginx模式(wss mode)" off \
 "8" "安裝Tor-Relay | Relay模式(not exit relay)" off \
 "下载相关" "Download concerned" on  \
-"9" "安裝Qbittorrent | 强大的BT客户端(Powerful Bittorrent Client)" on \
-"10" "安裝Bittorrent-Tracker" on \
-"11" "安裝Aria2" on \
-"12" "安裝Filebrowser | 文件下载与共享(File download and share)" on \
+"9" "安裝Qbittorrent | 强大的BT客户端(Powerful Bittorrent Client)" off \
+"10" "安裝Bittorrent-Tracker" off \
+"11" "安裝Aria2" off \
+"12" "安裝Filebrowser | 文件下载与共享(File download and share)" off \
 "状态监控" "Status concerned" on  \
 "13" "安裝Netdata | 服务器状态监控(Server status monitor)" on \
 "其他" "Others" on  \
